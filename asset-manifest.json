@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/reqres-app/static/css/main.943cb43f.chunk.css",
+    "main.js": "/reqres-app/static/js/main.f5793729.chunk.js",
+    "main.js.map": "/reqres-app/static/js/main.f5793729.chunk.js.map",
+    "runtime-main.js": "/reqres-app/static/js/runtime-main.42f55ec8.js",
+    "runtime-main.js.map": "/reqres-app/static/js/runtime-main.42f55ec8.js.map",
+    "static/css/2.081f420c.chunk.css": "/reqres-app/static/css/2.081f420c.chunk.css",
+    "static/js/2.a2e88000.chunk.js": "/reqres-app/static/js/2.a2e88000.chunk.js",
+    "static/js/2.a2e88000.chunk.js.map": "/reqres-app/static/js/2.a2e88000.chunk.js.map",
+    "static/js/3.aef686f8.chunk.js": "/reqres-app/static/js/3.aef686f8.chunk.js",
+    "static/js/3.aef686f8.chunk.js.map": "/reqres-app/static/js/3.aef686f8.chunk.js.map",
+    "index.html": "/reqres-app/index.html",
+    "static/css/2.081f420c.chunk.css.map": "/reqres-app/static/css/2.081f420c.chunk.css.map",
+    "static/css/main.943cb43f.chunk.css.map": "/reqres-app/static/css/main.943cb43f.chunk.css.map",
+    "static/js/2.a2e88000.chunk.js.LICENSE.txt": "/reqres-app/static/js/2.a2e88000.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.42f55ec8.js",
+    "static/css/2.081f420c.chunk.css",
+    "static/js/2.a2e88000.chunk.js",
+    "static/css/main.943cb43f.chunk.css",
+    "static/js/main.f5793729.chunk.js"
+  ]
+}
