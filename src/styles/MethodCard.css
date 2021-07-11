@@ -1,0 +1,23 @@
+.method-card {
+  display: flex;
+  flex-direction: row;
+  padding: 5px;
+  background-color: #f1faee;
+  border-radius: 5px;
+  margin: 5px;
+}
+
+.method {
+  width: 25%;
+  background-color: #a8dadc;
+  border-radius: 5px;
+  padding: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.description {
+  width: 75%;
+  padding: 5px;
+}

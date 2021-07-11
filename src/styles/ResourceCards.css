@@ -1,0 +1,14 @@
+.resource-card {
+  display: flex;
+  flex-direction: column;
+  margin: 5px;
+  align-items: center;
+  border-radius: 5px;
+  color: #f1faee;
+  width: 375px;
+  cursor: pointer;
+}
+
+.resource-card p {
+  margin: 5px;
+}

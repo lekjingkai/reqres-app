@@ -1,0 +1,13 @@
+.loginContainer {
+  margin-top: 10px;
+  width: 30%;
+  border: solid 1px black;
+  padding: 15px;
+  display: inline-block;
+  border-radius: 5px;
+  text-align: left;
+}
+
+.btn {
+  margin: 5px;
+}
